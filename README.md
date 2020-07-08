@@ -2,7 +2,7 @@
 
 This branch version of Sitefinity Quantum demo website features fully functional integration with UCommerce.
 
-Complete feature overview: https://ucommerce.net/pricing/
+Complete feature overview: https://www.progress.com/sitefinity-cms/platform/integrations/ucommerce
 
 ### Overview
 
